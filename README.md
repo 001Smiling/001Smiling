@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Alena
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">𝙸'𝚖 Junior Frontend-developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="32"/> from Russia</h2>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
+<h2 align="center">𝙸'𝚖 Junior Frontend-developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="32" height="32"/> from Russia</h2>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=007Alena&style=flat-square&color=blue" alt=""/></div> <br>
 <div align="center"><img align="center" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="300" height="300"/></div>
 
